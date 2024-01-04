@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.32640a48.css","mappings":"AAAA,UAGE,aAAc,CADd,gBAAiB,CADjB,YAGF","sources":["index.css"],"sourcesContent":[".skeleton {\r\n  padding: 30px;\r\n  max-width: 1600px;\r\n  margin: 0 auto;\r\n}\r\n"],"names":[],"sourceRoot":""}
